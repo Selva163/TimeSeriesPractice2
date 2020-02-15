@@ -11,4 +11,5 @@ ARIMA, FB Prophet, Linear Regression, Random Forest
 # Improvements
 
 Fine tune FB Prophet
+
 Try different weights for models instead of average
